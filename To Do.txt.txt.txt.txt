@@ -17,7 +17,7 @@ pathfinding?                        ()
 upgrades
 speeeeed
 loot av död pirater
-kunna dö
+kunna dö                            (Teo)
 Stortorn kunna sprängas
 Unitys particle system
 game over
