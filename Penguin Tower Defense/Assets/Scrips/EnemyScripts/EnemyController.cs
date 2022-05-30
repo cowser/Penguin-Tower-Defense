@@ -19,8 +19,9 @@ public class EnemyController : MonoBehaviour
         Debug.Log("PlayerLives is now: " + PlayerStats.PlayerLives);
         if (PlayerStats.PlayerLives == 0)
         {
-            GameOver gameOver = FindObjectOfType<GameOver>();                               //Finds the GameOver class in GameMaster
-            gameOver.EndGame();                                                             //Calls the "EndGame" function, ending the game (not yet)
+            FindObjectOfType<LevelLoader>().LoadSelectedLevel(3); //Game over
+            //GameOver gameOver = FindObjectOfType<GameOver>();                               //Finds the GameOver class in GameMaster
+            //gameOver.EndGame();                                                             //Calls the "EndGame" function, ending the game (not yet)
         }
     }
 }

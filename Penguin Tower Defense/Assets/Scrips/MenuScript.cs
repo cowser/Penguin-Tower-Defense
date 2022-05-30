@@ -24,7 +24,7 @@ public class MenuScript : MonoBehaviour
 
     void Awake()
     {
-        amountOfLevles = SceneManager.sceneCountInBuildSettings;
+        amountOfLevles = SceneManager.sceneCountInBuildSettings - 3;
         Debug.Log("Levels: "+amountOfLevles);
         StartCoroutine(Waitfor(1f));
         levelloader = GameObject.FindObjectOfType<LevelLoader>();
@@ -202,5 +202,11 @@ public class MenuScript : MonoBehaviour
             //Picture Switch                                  selected
             myIMGcomponent3.sprite = Maps[amountOfLevles-1]; // [4]
         }
+    }
+
+    public void QuitGame()
+    {
+        Debug.Log("Quit");
+        Application.Quit();
     }
 }

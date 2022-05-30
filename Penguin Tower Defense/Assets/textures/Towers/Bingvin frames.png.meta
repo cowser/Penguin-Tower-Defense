@@ -1,7 +1,715 @@
 fileFormatVersion: 2
 guid: f53ecf27015997b4e8833d2fcbda91bd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4843279609417446745
+    second: Bingvin frames_0
+  - first:
+      213: -7782212725013826082
+    second: Bingvin frames_1
+  - first:
+      213: -5491631151046694511
+    second: Bingvin frames_2
+  - first:
+      213: -7558925551793998735
+    second: Bingvin frames_3
+  - first:
+      213: 4151614054537628867
+    second: Bingvin frames_4
+  - first:
+      213: -2772062800788891395
+    second: Bingvin frames_5
+  - first:
+      213: -139842481600825784
+    second: Bingvin frames_6
+  - first:
+      213: -2698510022433656945
+    second: Bingvin frames_7
+  - first:
+      213: -4967026948077262746
+    second: Bingvin frames_8
+  - first:
+      213: 1038748439658768729
+    second: Bingvin frames_9
+  - first:
+      213: -1494506048986338845
+    second: Bingvin frames_10
+  - first:
+      213: 981643892639618814
+    second: Bingvin frames_11
+  - first:
+      213: -8385809131025594068
+    second: Bingvin frames_12
+  - first:
+      213: 5596227907923111713
+    second: Bingvin frames_13
+  - first:
+      213: -4549012960592858567
+    second: Bingvin frames_14
+  - first:
+      213: 6024081508254558852
+    second: Bingvin frames_15
+  - first:
+      213: 5609696694302478007
+    second: Bingvin frames_16
+  - first:
+      213: 3510385464871368608
+    second: Bingvin frames_17
+  - first:
+      213: 6015727189809862417
+    second: Bingvin frames_18
+  - first:
+      213: -1812217116137832245
+    second: Bingvin frames_19
+  - first:
+      213: -5355470104453654348
+    second: Bingvin frames_20
+  - first:
+      213: 6366444990070416327
+    second: Bingvin frames_21
+  - first:
+      213: 1291224703347969563
+    second: Bingvin frames_22
+  - first:
+      213: 401379947890087097
+    second: Bingvin frames_23
+  - first:
+      213: -5484128058576074858
+    second: Bingvin frames_24
+  - first:
+      213: 4363682669378562642
+    second: Bingvin frames_25
+  - first:
+      213: 324250172155292793
+    second: Bingvin frames_26
+  - first:
+      213: -5862623227803268802
+    second: Bingvin frames_27
+  - first:
+      213: 1506107904271636687
+    second: Bingvin frames_28
+  - first:
+      213: 4872634442233405555
+    second: Bingvin frames_29
+  - first:
+      213: 352241793221505816
+    second: Bingvin frames_30
+  - first:
+      213: 5557375766131152095
+    second: Bingvin frames_31
+  - first:
+      213: 6140362807455623065
+    second: Bingvin frames_32
+  - first:
+      213: -5211215122626712371
+    second: Bingvin frames_33
+  - first:
+      213: 1776950608825226527
+    second: Bingvin frames_34
+  - first:
+      213: 6769421505399392901
+    second: Bingvin frames_35
+  - first:
+      213: -6760243567281009978
+    second: Bingvin frames_36
+  - first:
+      213: -2527633486926862255
+    second: Bingvin frames_37
+  - first:
+      213: -2130895139394736369
+    second: Bingvin frames_38
+  - first:
+      213: -8002376419287781214
+    second: Bingvin frames_39
+  - first:
+      213: 3201776249263769682
+    second: Bingvin frames_40
+  - first:
+      213: -1034367386512960256
+    second: Bingvin frames_41
+  - first:
+      213: 8969922279078600895
+    second: Bingvin frames_42
+  - first:
+      213: 352440360086721732
+    second: Bingvin frames_43
+  - first:
+      213: -4276889497077712596
+    second: Bingvin frames_44
+  - first:
+      213: -1653000625203696102
+    second: Bingvin frames_45
+  - first:
+      213: -256030878421029217
+    second: Bingvin frames_46
+  - first:
+      213: 6580890068497830210
+    second: Bingvin frames_47
+  - first:
+      213: 4407347895343208072
+    second: Bingvin frames_48
+  - first:
+      213: 2477462141636444248
+    second: Bingvin frames_49
+  - first:
+      213: -4302065615648203012
+    second: Bingvin frames_50
+  - first:
+      213: -6437255335059300962
+    second: Bingvin frames_51
+  - first:
+      213: 4147341156177936096
+    second: Bingvin frames_52
+  - first:
+      213: -1894960118551666761
+    second: Bingvin frames_53
+  - first:
+      213: 2089374183975698593
+    second: Bingvin frames_54
+  - first:
+      213: -5166345524137765403
+    second: Bingvin frames_55
+  - first:
+      213: 3488899336435704006
+    second: Bingvin frames_56
+  - first:
+      213: -3839990282903524168
+    second: Bingvin frames_57
+  - first:
+      213: -6067748628599584700
+    second: Bingvin frames_58
+  - first:
+      213: 7298399905718560944
+    second: Bingvin frames_59
+  - first:
+      213: -1538380420294943285
+    second: Bingvin frames_60
+  - first:
+      213: 1511011177113171724
+    second: Bingvin frames_61
+  - first:
+      213: 1035664072210491515
+    second: Bingvin frames_62
+  - first:
+      213: -7847216294833468121
+    second: Bingvin frames_63
+  - first:
+      213: -2422756753890748489
+    second: Bingvin frames_64
+  - first:
+      213: 1359775198783197913
+    second: Bingvin frames_65
+  - first:
+      213: -7817338169176965688
+    second: Bingvin frames_66
+  - first:
+      213: -5330898107204664256
+    second: Bingvin frames_67
+  - first:
+      213: -4542589486515178031
+    second: Bingvin frames_68
+  - first:
+      213: -551070405630266858
+    second: Bingvin frames_69
+  - first:
+      213: 7162204713098519318
+    second: Bingvin frames_70
+  - first:
+      213: -3190568001448587624
+    second: Bingvin frames_71
+  - first:
+      213: 6927735458960960701
+    second: Bingvin frames_72
+  - first:
+      213: 7607217037463333373
+    second: Bingvin frames_73
+  - first:
+      213: 2854382374235862697
+    second: Bingvin frames_74
+  - first:
+      213: -5437193370515491507
+    second: Bingvin frames_75
+  - first:
+      213: -4349902435967924801
+    second: Bingvin frames_76
+  - first:
+      213: 1030159424838481520
+    second: Bingvin frames_77
+  - first:
+      213: 3750712502323551951
+    second: Bingvin frames_78
+  - first:
+      213: -1299377910721747627
+    second: Bingvin frames_79
+  - first:
+      213: 5693284173590575547
+    second: Bingvin frames_80
+  - first:
+      213: 2024459516662260140
+    second: Bingvin frames_81
+  - first:
+      213: -397709305232895353
+    second: Bingvin frames_82
+  - first:
+      213: -901842845070730708
+    second: Bingvin frames_83
+  - first:
+      213: 1864843302354498242
+    second: Bingvin frames_84
+  - first:
+      213: 2739606976899316831
+    second: Bingvin frames_85
+  - first:
+      213: 8819031147268922342
+    second: Bingvin frames_86
+  - first:
+      213: 5384221808670010347
+    second: Bingvin frames_87
+  - first:
+      213: -6923552485580074582
+    second: Bingvin frames_88
+  - first:
+      213: 7880277268571082695
+    second: Bingvin frames_89
+  - first:
+      213: 6890587478574493512
+    second: Bingvin frames_90
+  - first:
+      213: -4522610702964444555
+    second: Bingvin frames_91
+  - first:
+      213: 7856174174166210502
+    second: Bingvin frames_92
+  - first:
+      213: 9183238327169731878
+    second: Bingvin frames_93
+  - first:
+      213: 584958895449926058
+    second: Bingvin frames_94
+  - first:
+      213: 2711283869011507654
+    second: Bingvin frames_95
+  - first:
+      213: -5979520772531807226
+    second: Bingvin frames_96
+  - first:
+      213: 283712718494546623
+    second: Bingvin frames_97
+  - first:
+      213: 8466670095091672137
+    second: Bingvin frames_98
+  - first:
+      213: -8097225968428946004
+    second: Bingvin frames_99
+  - first:
+      213: -4376842629984764055
+    second: Bingvin frames_100
+  - first:
+      213: 176022970729208899
+    second: Bingvin frames_101
+  - first:
+      213: -7834427447882195778
+    second: Bingvin frames_102
+  - first:
+      213: -4139451303015426568
+    second: Bingvin frames_103
+  - first:
+      213: -2695327602935816028
+    second: Bingvin frames_104
+  - first:
+      213: -1170861931514182716
+    second: Bingvin frames_105
+  - first:
+      213: -8847075144724210216
+    second: Bingvin frames_106
+  - first:
+      213: 2179351793679827896
+    second: Bingvin frames_107
+  - first:
+      213: 5832602102270576114
+    second: Bingvin frames_108
+  - first:
+      213: -8906083757210995301
+    second: Bingvin frames_109
+  - first:
+      213: 8660816251900439202
+    second: Bingvin frames_110
+  - first:
+      213: -3163882403610674252
+    second: Bingvin frames_111
+  - first:
+      213: 2777400657263638290
+    second: Bingvin frames_112
+  - first:
+      213: 1198883103633471227
+    second: Bingvin frames_113
+  - first:
+      213: -755251008045100996
+    second: Bingvin frames_114
+  - first:
+      213: -7286407587236964428
+    second: Bingvin frames_115
+  - first:
+      213: -7921492601153162206
+    second: Bingvin frames_116
+  - first:
+      213: -2272938715788552163
+    second: Bingvin frames_117
+  - first:
+      213: -5334097985995256254
+    second: Bingvin frames_118
+  - first:
+      213: 8486911633171185087
+    second: Bingvin frames_119
+  - first:
+      213: 16371217860409941
+    second: Bingvin frames_120
+  - first:
+      213: 2337393807143512853
+    second: Bingvin frames_121
+  - first:
+      213: -1522995100139161953
+    second: Bingvin frames_122
+  - first:
+      213: -7018598224017295099
+    second: Bingvin frames_123
+  - first:
+      213: -5057887716503214162
+    second: Bingvin frames_124
+  - first:
+      213: -6705641362591874440
+    second: Bingvin frames_125
+  - first:
+      213: 3684178180050876855
+    second: Bingvin frames_126
+  - first:
+      213: -3221674037032041950
+    second: Bingvin frames_127
+  - first:
+      213: 2549753055768591569
+    second: Bingvin frames_128
+  - first:
+      213: -7083211073639373694
+    second: Bingvin frames_129
+  - first:
+      213: -6517585601458255997
+    second: Bingvin frames_130
+  - first:
+      213: -3934277489044669201
+    second: Bingvin frames_131
+  - first:
+      213: 8763242363972505866
+    second: Bingvin frames_132
+  - first:
+      213: -2093520378554559523
+    second: Bingvin frames_133
+  - first:
+      213: 5215462577920871645
+    second: Bingvin frames_134
+  - first:
+      213: -345660497214732767
+    second: Bingvin frames_135
+  - first:
+      213: 8576567708824212380
+    second: Bingvin frames_136
+  - first:
+      213: 3388686040501394095
+    second: Bingvin frames_137
+  - first:
+      213: -4230116919496553305
+    second: Bingvin frames_138
+  - first:
+      213: 4290014728542628903
+    second: Bingvin frames_139
+  - first:
+      213: 3981682633743528945
+    second: Bingvin frames_140
+  - first:
+      213: -161847111988712952
+    second: Bingvin frames_141
+  - first:
+      213: 4029838358743781189
+    second: Bingvin frames_142
+  - first:
+      213: -5456521205920938626
+    second: Bingvin frames_143
+  - first:
+      213: 6564893496164855362
+    second: Bingvin frames_144
+  - first:
+      213: -6414118315101573417
+    second: Bingvin frames_145
+  - first:
+      213: 4268862035045926388
+    second: Bingvin frames_146
+  - first:
+      213: 2406601615081549487
+    second: Bingvin frames_147
+  - first:
+      213: 1134167043350064001
+    second: Bingvin frames_148
+  - first:
+      213: -5348425895253700580
+    second: Bingvin frames_149
+  - first:
+      213: 3476554038282327062
+    second: Bingvin frames_150
+  - first:
+      213: 1791607901235249719
+    second: Bingvin frames_151
+  - first:
+      213: -6997281506844483781
+    second: Bingvin frames_152
+  - first:
+      213: 7109530191819860266
+    second: Bingvin frames_153
+  - first:
+      213: -4513675419794002306
+    second: Bingvin frames_154
+  - first:
+      213: -7782984106892297674
+    second: Bingvin frames_155
+  - first:
+      213: 510973343253471034
+    second: Bingvin frames_156
+  - first:
+      213: 2714075258890969701
+    second: Bingvin frames_157
+  - first:
+      213: 2547270718313416477
+    second: Bingvin frames_158
+  - first:
+      213: 4761519807123067611
+    second: Bingvin frames_159
+  - first:
+      213: 4190007859815227363
+    second: Bingvin frames_160
+  - first:
+      213: -5453760306984167634
+    second: Bingvin frames_161
+  - first:
+      213: 2429471561408381307
+    second: Bingvin frames_162
+  - first:
+      213: -2642955004304542389
+    second: Bingvin frames_163
+  - first:
+      213: 1193468034071329539
+    second: Bingvin frames_164
+  - first:
+      213: 253354218844578100
+    second: Bingvin frames_165
+  - first:
+      213: -1390929923977415382
+    second: Bingvin frames_166
+  - first:
+      213: 8558478008501728163
+    second: Bingvin frames_167
+  - first:
+      213: -4717749075976259410
+    second: Bingvin frames_168
+  - first:
+      213: 359095157860540983
+    second: Bingvin frames_169
+  - first:
+      213: 4385725967059992794
+    second: Bingvin frames_170
+  - first:
+      213: -6315002122249688908
+    second: Bingvin frames_171
+  - first:
+      213: -1396309534037930068
+    second: Bingvin frames_172
+  - first:
+      213: -6945489273749150873
+    second: Bingvin frames_173
+  - first:
+      213: 1375790622224884344
+    second: Bingvin frames_174
+  - first:
+      213: 228093413281923477
+    second: Bingvin frames_175
+  - first:
+      213: -7728496211406082825
+    second: Bingvin frames_176
+  - first:
+      213: -4880317738837644640
+    second: Bingvin frames_177
+  - first:
+      213: -763464956887858982
+    second: Bingvin frames_178
+  - first:
+      213: 4314160301870537952
+    second: Bingvin frames_179
+  - first:
+      213: 8149262037793459114
+    second: Bingvin frames_180
+  - first:
+      213: -9022425552400134413
+    second: Bingvin frames_181
+  - first:
+      213: 1487886334621362558
+    second: Bingvin frames_182
+  - first:
+      213: -5618228627517906986
+    second: Bingvin frames_183
+  - first:
+      213: -9053915117216390495
+    second: Bingvin frames_184
+  - first:
+      213: 482748914525070068
+    second: Bingvin frames_185
+  - first:
+      213: -3797978738627810865
+    second: Bingvin frames_186
+  - first:
+      213: 5127506359468003518
+    second: Bingvin frames_187
+  - first:
+      213: -2552698616609004217
+    second: Bingvin frames_188
+  - first:
+      213: -491992737391870729
+    second: Bingvin frames_189
+  - first:
+      213: -4604132688877318977
+    second: Bingvin frames_190
+  - first:
+      213: 220721593935905807
+    second: Bingvin frames_191
+  - first:
+      213: -5590729411322853486
+    second: Bingvin frames_192
+  - first:
+      213: -3686366336432967719
+    second: Bingvin frames_193
+  - first:
+      213: 6158907917876544253
+    second: Bingvin frames_194
+  - first:
+      213: 7683156421660950777
+    second: Bingvin frames_195
+  - first:
+      213: 509093942659962995
+    second: Bingvin frames_196
+  - first:
+      213: -7857217678192010413
+    second: Bingvin frames_197
+  - first:
+      213: -1403205193012272401
+    second: Bingvin frames_198
+  - first:
+      213: -3232810617953448697
+    second: Bingvin frames_199
+  - first:
+      213: 4932399316305377514
+    second: Bingvin frames_200
+  - first:
+      213: -8677422510815771939
+    second: Bingvin frames_201
+  - first:
+      213: 8476240979724930131
+    second: Bingvin frames_202
+  - first:
+      213: 2273335822372110187
+    second: Bingvin frames_203
+  - first:
+      213: 6409004115638642401
+    second: Bingvin frames_204
+  - first:
+      213: 5972192281603717367
+    second: Bingvin frames_205
+  - first:
+      213: 598702582608471534
+    second: Bingvin frames_206
+  - first:
+      213: -4745468314151170938
+    second: Bingvin frames_207
+  - first:
+      213: -4824059309927757393
+    second: Bingvin frames_208
+  - first:
+      213: 4511748437700346705
+    second: Bingvin frames_209
+  - first:
+      213: 624324731385621774
+    second: Bingvin frames_210
+  - first:
+      213: -7178849101679592830
+    second: Bingvin frames_211
+  - first:
+      213: -982492924203907476
+    second: Bingvin frames_212
+  - first:
+      213: 3559622654554221770
+    second: Bingvin frames_213
+  - first:
+      213: -8455763112570751662
+    second: Bingvin frames_214
+  - first:
+      213: 7804096464538645744
+    second: Bingvin frames_215
+  - first:
+      213: 232201379737923478
+    second: Bingvin frames_216
+  - first:
+      213: 7418094706896789082
+    second: Bingvin frames_217
+  - first:
+      213: -2256291134205412692
+    second: Bingvin frames_218
+  - first:
+      213: -5723370978625876460
+    second: Bingvin frames_219
+  - first:
+      213: -1995324319856238939
+    second: Bingvin frames_220
+  - first:
+      213: -3756733624906019472
+    second: Bingvin frames_221
+  - first:
+      213: -8971686447826231960
+    second: Bingvin frames_222
+  - first:
+      213: -1088728511423275896
+    second: Bingvin frames_223
+  - first:
+      213: 8255944683700108992
+    second: Bingvin frames_224
+  - first:
+      213: 3090386443833586635
+    second: Bingvin frames_225
+  - first:
+      213: -3325215301017080359
+    second: Bingvin frames_226
+  - first:
+      213: -7539036845323884211
+    second: Bingvin frames_227
+  - first:
+      213: 7502601753659248469
+    second: Bingvin frames_228
+  - first:
+      213: -1202846736187883488
+    second: Bingvin frames_229
+  - first:
+      213: -148158539916243213
+    second: Bingvin frames_230
+  - first:
+      213: -9008589007119751071
+    second: Bingvin frames_231
+  - first:
+      213: 3737524317210330650
+    second: Bingvin frames_232
+  - first:
+      213: 2808535131560131077
+    second: Bingvin frames_233
+  - first:
+      213: -901302314252558876
+    second: Bingvin frames_234
+  - first:
+      213: -8989039613727534841
+    second: Bingvin frames_235
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +749,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +783,84 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bingvin frames_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 99
+        width: 605
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955383bd429c63340800000000000000
+      internalID: 4843279609417446745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bingvin frames_1
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 99
+        width: 604
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b60f22c6000490800000000000000
+      internalID: -7782212725013826082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bingvin frames_2
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 99
+        width: 608
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996464609ec9c3b0800000000000000
+      internalID: -5491631151046694511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

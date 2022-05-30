@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: EasyEnemyStats
   m_EditorClassIdentifier: 
   hp: 100
-  dmg: 20
+  dmg: 10
   speed: 0

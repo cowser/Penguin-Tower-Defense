@@ -10,4 +10,5 @@ public class ScriptableBullets : ScriptableObject
     public int dmg;
     public int firerate;
     public int affect;
+    public int meterRange;
 }

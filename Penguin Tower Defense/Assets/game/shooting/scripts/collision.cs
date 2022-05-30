@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using OWS.ObjectPooling;
 public class collision : MonoBehaviour
 {
     int dmg, affect;
@@ -22,7 +22,7 @@ public class collision : MonoBehaviour
             ship.hp -= dmg;
             
             Debug.Log("Damage taken: " + dmg + " and affect: " + affect + "HP left: " + ship.hp);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
         }
     }
 }

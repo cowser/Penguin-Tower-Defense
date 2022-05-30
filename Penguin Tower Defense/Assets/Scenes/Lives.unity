@@ -666,7 +666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c526b6ba9d39c3409497cb1f54db1b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlayerLives: 0
   startLives: 20
 --- !u!1 &1646520075
 GameObject:
@@ -954,7 +953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c526b6ba9d39c3409497cb1f54db1b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_PlayerLives: 0
   startLives: 20
 --- !u!4 &2082346969
 Transform:

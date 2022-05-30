@@ -11,7 +11,7 @@ public class TowerSeeking : shoot
     [SerializeField] private bool targetFirst = true;
     // hur l�ngt tornet ser och kan targeta skepp
     [SerializeField][Range(2, 15)] public float Range = 1;
-
+    [SerializeField] public bool spin = true;
     public GameObject gun;
     private bool oneShoot = false;
     private bool hasFound = false;
@@ -24,12 +24,15 @@ public class TowerSeeking : shoot
 
 
         LayerMask pirates = LayerMask.GetMask("pirates");
+
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position, Range, pirates);
-        
+        //Debug.Log(colliders);
+
+
         if (colliders.Length > 0)
         {
-            hasFound = true;
 
+            hasFound = true;
 
             float howFar = colliders[0].GetComponent<FollowPath>().HowFarIn;
             // h�r kollar vi vilken av skeppen som har kommit l�ngst p� banan beroende p� en float som ligger i followath sripten
@@ -40,12 +43,15 @@ public class TowerSeeking : shoot
                     which2target = i;
                 }
             }
-            //startShooting();
             // R�knar ut vikeln mellan tv� positioner allts� skeppets XY position och tornets XY position.
-            // I samma veva omvandlar vi radianerna till vanliga grader med "(180 / Mathf.PI) *".
-            float lookAtAngle = (180 / Mathf.PI) * Mathf.Atan2(colliders[which2target].transform.position.y - transform.position.y, colliders[which2target].transform.position.x - transform.position.x);
-            //Sen roterar vi tornet i Z leden eftersom det �r s� man f�r till tv� dimensioell rotation.
-            transform.rotation = Quaternion.Euler(0, 0, lookAtAngle);
+
+            if (spin == true) { 
+                // I samma veva omvandlar vi radianerna till vanliga grader med "(180 / Mathf.PI) *".
+                float lookAtAngle = (180 / Mathf.PI) * Mathf.Atan2(colliders[which2target].transform.position.y - transform.position.y, colliders[which2target].transform.position.x - transform.position.x);
+                //Sen roterar vi tornet i Z leden eftersom det �r s� man f�r till tv� dimensioell rotation.
+                transform.rotation = Quaternion.Euler(0, 0, lookAtAngle); 
+            }
+
 
             if (oneShoot == false) {
                 gun.GetComponent<shoot>().startShooting();
